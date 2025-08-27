@@ -45,3 +45,6 @@ Flappy Bird is a mobile game where players tap the screen to make a bird flap an
 - Add background music & sound effects
 - Add difficulty levels
 - Improve UI with better graphics
+
+## 📝 License
+This project is open-source and available under the MIT License.
